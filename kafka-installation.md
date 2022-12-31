@@ -1,6 +1,9 @@
 
 #### steps to install
 
+mannually Download [kafka download page](https://kafka.apache.org/downloads)
+
+or
 
 wget https://dlcdn.apache.org/kafka/3.2.0/kafka_2.13-3.2.0.tgz  
 tar xzf kafka_2.13-3.2.0.tgz  
