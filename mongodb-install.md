@@ -32,5 +32,5 @@ $./robo3t
 
 OR
 
-Download Studio3t 
-Downlodad Mongodb Compass
+Download Studio3t  
+Downlodad Mongodb Compass  [https://www.mongodb.com/try/download/compass]
